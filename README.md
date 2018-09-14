@@ -18,9 +18,10 @@ This Game built need to  meet the specifications provided in these style guides 
     *Git Style Guide
 
 ## Installation
-    Download the GitHub zip file or clone the repository onto your local system: 
-        *zip file https://github.com/sanusimd/classic-arcade-game
-        *git clone https://github.com/sanusimd/classic-arcade-game.git
+Download the GitHub zip file or clone the repository onto your local system: 
+    
+    *zip file https://github.com/sanusimd/classic-arcade-game
+    *git clone https://github.com/sanusimd/classic-arcade-game.git
 
 ## Contributing
 
