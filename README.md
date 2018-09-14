@@ -1,6 +1,39 @@
-frontend-nanodegree-arcade-game
-===============================
+# Sanusi's Classic-Arcarde-Game
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of Contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [Instructions](#instructions)
+* [Contributing](#contributing)
+
+## Instructions
+To get started, open `js folder` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+This Game built need to  meet the specifications provided in these style guides below:
+
+    *HTML Style Guide
+    *CSS Style Guide
+    *JavaScript Style Guide
+    *Git Style Guide
+
+##Installation
+Download the GitHub zip file or clone the repository onto your local system: 
+        *zip file https://github.com/sanusimd/classic-arcade-game
+        or
+        *git clone https://github.com/sanusimd/classic-arcade-game.git
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+
+## How to get started :-
+
+Click on this <a href="https://sanusimd.github.io/classic-arcade-game/">LINK</a> to Visit the live version of the website.
+
+##Acknowledgments
+    Thanks to:
+        *Andela learning Community (ALC)
+        *Google
+        *Udacity
