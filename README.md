@@ -19,9 +19,9 @@ This Game built need to  meet the specifications provided in these style guides 
 
 ## Installation
 Download the GitHub zip file or clone the repository onto your local system: 
-    
-    [zip file] (https://github.com/sanusimd/classic-arcade-game)
-    [git clone] (https://github.com/sanusimd/classic-arcade-game.git)
+        *zip file https://github.com/sanusimd/classic-arcade-game
+        
+        *git clone https://github.com/sanusimd/classic-arcade-game.git
 
 ## Contributing
 
@@ -32,7 +32,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 Click on this <a href="https://sanusimd.github.io/classic-arcade-game/">LINK</a> to Visit the live version of the website.
 
-## Acknowledgments
+##Acknowledgments
     Thanks to:
         *Andela learning Community (ALC)
         *Google
