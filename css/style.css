@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family:  'Gloria Hallelujah', cursive;
+    color: #5FC148 ;
+}
+
+.modal-button {
+	background-color: #5FC148;
+	padding: 0.7rem 1rem;
+	font-size: 1.1rem;
+	display: block;
+	margin: 0 auto;
+	font-family: 'Gloria Hallelujah', cursive;
+	color: #ffffff;
+	border-radius: 5px;
+}
+
+.info {
+    margin-top: 1em;
+    font-size: 2rem;
+    text-transform: capitalize;
+    color: #687DDC;
+}
+
